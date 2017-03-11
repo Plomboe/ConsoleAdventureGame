@@ -1,0 +1,6 @@
+c:\users\tareq\documents\visual studio 2015\Projects\Adventure\Adventure\bin\Debug\Adventure.exe.config
+C:\Users\Tareq\Documents\Visual Studio 2015\Projects\Adventure\Adventure\bin\Debug\Adventure.exe
+C:\Users\Tareq\Documents\Visual Studio 2015\Projects\Adventure\Adventure\bin\Debug\Adventure.pdb
+C:\Users\Tareq\Documents\Visual Studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+C:\Users\Tareq\Documents\Visual Studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.exe
+C:\Users\Tareq\Documents\Visual Studio 2015\Projects\Adventure\Adventure\obj\Debug\Adventure.pdb
